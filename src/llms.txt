@@ -1,0 +1,23 @@
+# Dinis Cruz
+
+> Dinis Cruz: AI, cyber security and semantic knowledge graphs, built in the open; his CV as a presentation, and what recommendations can do for a career.
+
+The content of this site is being written. This file lists its pages; it will describe them once they are written.
+
+Version: __VERSION__
+
+## Pages
+
+- [Home](https://dinis-cruz.agenticcells.site/)
+- [CV as a story](https://dinis-cruz.agenticcells.site/cv/): being written
+- [Recommendations](https://dinis-cruz.agenticcells.site/recommendations/): being written
+- [Sources](https://dinis-cruz.agenticcells.site/sources/): being written
+- [Use with AI](https://dinis-cruz.agenticcells.site/agents/): about this file and index.md
+- [Behind the scenes](https://dinis-cruz.agenticcells.site/behind-the-scenes/): the agent team that made this site, generated from its repository
+- [index.md](https://dinis-cruz.agenticcells.site/index.md): the site as one Markdown file
+
+## About
+
+- Dinis Cruz's own site: https://diniscruz.ai
+- Made by the AgentiCCells team for Dinis Cruz. Code Apache-2.0, text CC BY 4.0.
+- Repository: https://github.com/AgentiCCells/AgentiCCells__Site__Dinis-Cruz

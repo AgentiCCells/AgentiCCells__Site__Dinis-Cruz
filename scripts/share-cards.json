@@ -1,0 +1,29 @@
+{
+  "note": "Link-preview cards. scripts/make-share-cards.mjs renders each to src/assets/share/<id>.jpg (1200x630); scripts/build.mjs uses alt for og:image:alt. A page picks one with <meta name=\"share-card\" content=\"<id>\">.",
+  "cards": {
+    "default": {
+      "eyebrow": "dinis-cruz.agenticcells.site",
+      "title": "Dinis Cruz",
+      "subtitle": "A career told as a story, and the recommendations that back it up",
+      "alt": "Dinis Cruz: a career told as a story, and the recommendations that back it up"
+    },
+    "cv": {
+      "eyebrow": "Dinis Cruz",
+      "title": "A CV told as a story",
+      "subtitle": "",
+      "alt": "Dinis Cruz: a CV told as a story"
+    },
+    "recommendations": {
+      "eyebrow": "Dinis Cruz",
+      "title": "The power of recommendations",
+      "subtitle": "Why you need them, how to ask, how to write one",
+      "alt": "The power of recommendations: why you need them, how to ask, how to write one"
+    },
+    "behind": {
+      "eyebrow": "Dinis Cruz",
+      "title": "Behind the scenes",
+      "subtitle": "The agent team that made this site",
+      "alt": "Behind the scenes: the agent team that made this site"
+    }
+  }
+}
