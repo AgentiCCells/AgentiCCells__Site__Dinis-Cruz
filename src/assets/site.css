@@ -153,6 +153,7 @@ a:hover { text-decoration-thickness: 2px; }
 /* Source markers, after the claim they support. */
 .srcs { font-family: var(--sans); font-size: var(--step--1); color: var(--muted); }
 .src { color: var(--muted); text-decoration: none; padding: .3em 0; vertical-align: baseline; }
+cite.src { font-style: normal; }
 .src:hover, .src:focus-visible { color: var(--accent); text-decoration: underline; }
 
 .lede, .kicker, .lead-card__go, .deck__count, .page-nav, th { font-family: var(--sans); }

@@ -135,7 +135,7 @@ Ten slides is enough. Keep one idea on each. Write the deck for someone who has 
 
 **What goes on it:** communities, mentoring, talks or volunteer work, and what they led to.
 
-**From Dinis's record:** former OWASP Board member; organiser of the OWASP Summits in Lisbon (2011) and Woburn (2017), the Open Security Summit series later took up the same working-session format. ([diniscruz.ai/about](https://diniscruz.ai/about/index.html))
+**From Dinis's record:** former OWASP Board member; organiser of the OWASP Summits in Lisbon (2011) and Woburn (2017). The Open Security Summit series later took up the same working-session format. ([diniscruz.ai/about](https://diniscruz.ai/about/index.html))
 
 ### Slide 7: How you work with people
 
@@ -153,7 +153,7 @@ Ten slides is enough. Keep one idea on each. Write the deck for someone who has 
 
 **What goes on it:** two or three short points from recommendations, with permission from the people who wrote them. See [The power of recommendations](https://dinis-cruz.agenticcells.site/recommendations/).
 
-**From Dinis's record:** his recommendations are on [his LinkedIn profile](https://www.linkedin.com/in/diniscruz). We could not read them, and we quote no one until they agree. ([Dinis Cruz, brief to the team, 19 November 2026](https://github.com/AgentiCCells/AgentiCCells__Site__Factory/blob/dev/requests/2026-11-19__dinis-cruz/brief.md))
+**From Dinis's record:** his recommendations are on [his LinkedIn profile](https://www.linkedin.com/in/diniscruz). We could not read them, and we quote no one until they agree. (Dinis Cruz, brief to the team, 19 November 2026)
 
 ### Slide 10: What you want next, and how to reach you
 
@@ -242,7 +242,7 @@ A structure that works:
 
 ### The worked example: Dinis's recommendations
 
-Dinis's public recommendations are on [his LinkedIn profile](https://www.linkedin.com/in/diniscruz). ([Dinis Cruz, brief to the team, 19 November 2026](https://github.com/AgentiCCells/AgentiCCells__Site__Factory/blob/dev/requests/2026-11-19__dinis-cruz/brief.md)) He says LinkedIn is where most of his essays are first posted and the fastest route to reach him. ([diniscruz.ai/about](https://diniscruz.ai/about/index.html))
+Dinis's recommendations are on [his LinkedIn profile](https://www.linkedin.com/in/diniscruz). (Dinis Cruz, brief to the team, 19 November 2026) He says LinkedIn is where most of his essays are first posted and the fastest route to reach him. ([diniscruz.ai/about](https://diniscruz.ai/about/index.html))
 
 **What we could not do.** LinkedIn blocks automated reads, so we could not read his recommendations. We do not know how many there are, who wrote them or what they say.
 
@@ -282,7 +282,7 @@ Every fact about Dinis Cruz on this site comes from a page listed here. We read 
 | [diniscruz.ai/llms.txt](https://diniscruz.ai/llms.txt) and [llms-full.txt](https://diniscruz.ai/llms-full.txt) | Site map and short profile; 103 pieces of writing from February 2024. We searched the full text for CV, slides and recommendations. | 19 November 2026 |
 | [diniscruz.ai writing](https://diniscruz.ai/writing/index.html), [research](https://diniscruz.ai/research/index.html), [home](https://diniscruz.ai/) | The structure of his site, for our links into it. | 19 November 2026 |
 | [riskmandate.ai/about](https://riskmandate.ai/about.html) | The one-line bio used for him on the RiskMandate.ai investor deck (October 2026). | 19 November 2026 |
-| [Dinis Cruz, brief to the team](https://github.com/AgentiCCells/AgentiCCells__Site__Factory/blob/dev/requests/2026-11-19__dinis-cruz/brief.md) | What the site is for, and that he has public recommendations on LinkedIn, given by Dinis on 19 November 2026 (about 14:30 UTC). | 19 November 2026 |
+| Dinis Cruz, brief to the team (not public) | What the site is for, given by Dinis on 19 November 2026, about 14:30 UTC, and his words at about 14:32 UTC: "one of the examples I want to show there is the power of the LinkedIn recommendations". | 19 November 2026 |
 | [sgit.ai/about](https://sgit.ai/about/) | Confirms thirty years in the UK, CISO for UK companies, one company taken to an exit. | 19 November 2026 |
 | [YouTube video](https://www.youtube.com/watch?v=_UDjTUubuls) (title and channel only, via YouTube's oEmbed service) | A video on the "Dinis Cruz at H&B" channel about asking candidates for a presentation as well as a CV. We did not see its upload date. | 19 November 2026 |
 
