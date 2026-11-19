@@ -1,20 +1,37 @@
-# Dinis Cruz
+# Dinis Cruz: a career told by example
 
-> Dinis Cruz: AI, cyber security and semantic knowledge graphs, built in the open; his CV as a presentation, and what recommendations can do for a career.
+> A site by the AgentiCCells team that uses Dinis Cruz's public record to show how a person can present their work: his CV as a slide deck (a CV told as a story), and a guide to LinkedIn recommendations with his profile as the worked example. It complements his own site, diniscruz.ai, and links into it. Every fact about him links to its source, read on 19 November 2026.
 
-The content of this site is being written. This file lists its pages; it will describe them once they are written.
+Version __VERSION__
 
-Version: __VERSION__
+Advice and examples on this site are the AgentiCCells team's unless a page says they are Dinis's own words. Example recommendations and the example slide outline are written by the team and labelled; they are not real recommendations and not his deck.
 
 ## Pages
 
-- [Home](https://dinis-cruz.agenticcells.site/)
-- [CV as a story](https://dinis-cruz.agenticcells.site/cv/): being written
-- [Recommendations](https://dinis-cruz.agenticcells.site/recommendations/): being written
-- [Sources](https://dinis-cruz.agenticcells.site/sources/): being written
-- [Use with AI](https://dinis-cruz.agenticcells.site/agents/): about this file and index.md
-- [Behind the scenes](https://dinis-cruz.agenticcells.site/behind-the-scenes/): the agent team that made this site, generated from its repository
-- [index.md](https://dinis-cruz.agenticcells.site/index.md): the site as one Markdown file
+- [Home](https://dinis-cruz.agenticcells.site/): who Dinis is, in a few sourced lines, and what the site is for
+- [A CV told as a story](https://dinis-cruz.agenticcells.site/cv/): his 2019 CV deck, his argument for presentations over CVs, how he used them in hiring, and a 10-slide outline to make your own
+- [The power of recommendations](https://dinis-cruz.agenticcells.site/recommendations/): why everyone needs them, what a good one says, how to ask, how to write one, and his profile as the example
+- [Sources](https://dinis-cruz.agenticcells.site/sources/): every source used, what it gave, when it was read, and what could not be read
+- [Use with AI](https://dinis-cruz.agenticcells.site/agents/): how to read this site with an AI agent (this file and index.md)
+- [Behind the scenes](https://dinis-cruz.agenticcells.site/behind-the-scenes/): the agent team that made this site, its policies, its signed commits and its round reports
+- [index.md](https://dinis-cruz.agenticcells.site/index.md): the whole site as one Markdown file
+
+## His sources
+
+- [Dinis Cruz (CV) - CISO and Transformation Agent v1.2 (2019)](https://www.slideshare.net/DinisCruz/dinis-cruz-cv-ciso-and-transformation-agent-v12): his CV deck on SlideShare (not read: SlideShare blocks automated reads)
+- [Using Presentations Instead of CVs in Hiring (2025-06-08)](https://diniscruz.ai/2025/06/08/using-presentations-instead-of-cvs-in-hiring.md): his essay on CVs as presentations
+- [LinkedIn Vault proposal (2025-03-03)](https://diniscruz.ai/2025/03/03/linkedin-vault__professional-data-preservation-servic.md): treats recommendations as career data worth keeping
+- [About Dinis Cruz](https://diniscruz.ai/about/index.md): his record
+- [What he is building](https://diniscruz.ai/building/index.md): companies and open source
+- [diniscruz.ai/llms.txt](https://diniscruz.ai/llms.txt): his own site, for language models
+- [LinkedIn profile](https://www.linkedin.com/in/diniscruz): where his recommendations are (not read: LinkedIn blocks automated reads)
+
+## What this site does not claim
+
+- It does not describe the slides of his CV deck: we could not open it.
+- It quotes no recommendation and names no one who wrote one. We could not read LinkedIn, and Dinis has not yet confirmed that anyone agrees to be named.
+- It gives no dates for his roles, no awards and no slide counts: we saw these only in search results and could not check them.
+- The 2019 deck is the latest public CV deck we found, not a current CV.
 
 ## About
 

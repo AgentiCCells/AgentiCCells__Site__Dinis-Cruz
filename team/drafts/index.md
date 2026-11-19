@@ -65,7 +65,6 @@ Open it and look through it before you read on. It is the best part of this page
 #### Why we think this is the latest public one
 
 - His 2025 essay on hiring names v1.2 (2019) as his CV deck. ([essay](https://diniscruz.ai/2025/06/08/using-presentations-instead-of-cvs-in-hiring.html))
-- An earlier version, v0.6, is marked "OLD VERSION" in its title on SlideShare.
 - We searched for a newer CV deck and found none.
 
 This makes it the latest *public* CV deck we could find. It is not a current CV. We have asked Dinis whether a newer one exists.
