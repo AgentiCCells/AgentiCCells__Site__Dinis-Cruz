@@ -112,7 +112,7 @@ Ten slides is enough. Keep one idea on each. Write the deck for someone who has 
 
 **From Dinis's record:** his stated intent is to grow more UK-based companies on this technology, in the open; he says LinkedIn is the fastest route to reach him. ([diniscruz.ai/about](https://diniscruz.ai/about/index.html))
 
-### Tips from the team
+## Tips from the team
 
 - Write the headings first. If the ten headings tell your story on their own, the deck works.
 - Use your own words. A deck that sounds like a template tells the reader nothing about you.
