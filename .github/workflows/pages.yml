@@ -51,6 +51,15 @@ jobs:
         run: |
           last=$(git describe --tags --abbrev=0 --match "v${VERSION_BASE}.*" "$AFTER" 2>/dev/null || true)
           node scripts/check-commits.mjs "${last:-$BEFORE}" "$AFTER"
+      - name: Every commit since the last release is signed by a key in its parent's team/keys.json
+        # Runs the checker as it is in the base commit (the last release tag, or the push's before),
+        # never the pushed copy, so a push cannot change the check that judges it.
+        env:
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
+        run: |
+          last=$(git describe --tags --abbrev=0 --match "v${VERSION_BASE}.*" "$AFTER" 2>/dev/null || true)
+          scripts/run-check-signatures.sh "${last:-$BEFORE}" "$AFTER"
       - run: node scripts/build.mjs
         env:
           SITE_VERSION: ${{ steps.version.outputs.version }}
