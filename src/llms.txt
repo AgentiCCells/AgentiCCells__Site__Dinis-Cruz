@@ -1,6 +1,6 @@
 # Dinis Cruz: a career told by example
 
-> A site by the AgentiCCells team that uses Dinis Cruz's public record to show how a person can present their work: his CV as a slide deck (a CV told as a story), and a guide to LinkedIn recommendations with his profile as the worked example. It complements his own site, diniscruz.ai, and links into it. Every fact about him links to its source, read on 19 November 2026.
+> A site by the AgentiCCells team that uses Dinis Cruz's public record to show how a person can present their work: his CV as a slide deck (a CV told as a story), and a guide to LinkedIn recommendations with his LinkedIn recommendations as the worked example once he has answered our questions (none are quoted or named until then). It complements his own site, diniscruz.ai, and links into it. Every fact about him links to its source, read on 19 November 2026.
 
 Version __VERSION__
 

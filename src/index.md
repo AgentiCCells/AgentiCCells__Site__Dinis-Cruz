@@ -25,13 +25,13 @@ Most CVs are lists. Most profiles say what the owner thinks of themselves. Dinis
 
 #### 1. A CV told as a story
 
-He published his CV as a slide deck, and he asked people applying to his teams for a presentation about themselves. We describe his deck, sum up his argument, and give a 10-slide outline you can follow.
+He published his CV as a slide deck, and he asked people applying to his teams for a presentation about themselves. We point you to his deck, sum up his argument, and give a 10-slide outline you can follow.
 
 [Read: A CV told as a story](https://dinis-cruz.agenticcells.site/cv/)
 
 #### 2. The power of recommendations
 
-A CV is what you say about yourself. A recommendation is what someone else saw. We explain why everyone needs them, what a good one says, how to ask for one and how to write one for someone else. Dinis's own public recommendations on LinkedIn are the worked example.
+A CV is what you say about yourself. A recommendation is what someone else saw. We explain why everyone needs them, what a good one says, how to ask for one and how to write one for someone else. Dinis's own LinkedIn recommendations will be the worked example once he has answered our questions.
 
 [Read: The power of recommendations](https://dinis-cruz.agenticcells.site/recommendations/)
 
@@ -45,7 +45,7 @@ This site does not repeat his own. For his essays, research, talks and the compa
 - [Research](https://diniscruz.ai/research/index.html)
 - [Talks](https://diniscruz.ai/resources/presentations.html)
 
-He says LinkedIn is the fastest route to reach him. ([diniscruz.ai/about](https://diniscruz.ai/about/index.html), [his LinkedIn profile](https://www.linkedin.com/in/diniscruz))
+He says LinkedIn is the fastest route to reach him. ([diniscruz.ai/about](https://diniscruz.ai/about/index.html))
 
 ### Who made this
 
@@ -62,7 +62,7 @@ A CV is usually a list of titles and dates. Dinis Cruz published his as a slide 
 **Dinis Cruz (CV) - CISO and Transformation Agent v1.2** (2019), on SlideShare:
 [slideshare.net/DinisCruz/dinis-cruz-cv-ciso-and-transformation-agent-v12](https://www.slideshare.net/DinisCruz/dinis-cruz-cv-ciso-and-transformation-agent-v12)
 
-Open it and look through it before you read on. It is the best part of this page, and it is short.
+Open it and look through it before you read on. We could not open it ourselves, so this page does not describe its slides.
 
 #### Why we think this is the latest public one
 
@@ -93,7 +93,7 @@ This is our summary of his essay [Using Presentations Instead of CVs in Hiring](
 - **At Holland & Barrett**, where he was CISO, job adverts for his team asked for a presentation as well as a CV. HR agreed to it. The team gave candidates guidance on what to include and made a short video explaining why they ask. ([essay](https://diniscruz.ai/2025/06/08/using-presentations-instead-of-cvs-in-hiring.html), [video on YouTube](https://www.youtube.com/watch?v=_UDjTUubuls))
 - **He was open about the costs.** Not everyone is good at presentations, and a deck takes more time than a CV. His teams answered this with guidance, by asking for the deck later in the process, and sometimes by making it optional. ([essay](https://diniscruz.ai/2025/06/08/using-presentations-instead-of-cvs-in-hiring.html))
 
-He describes the process as one that "makes them better": candidates learn something about their own strengths while making the deck, whatever the outcome.
+He describes the process as one that "makes them better": candidates learn something about their own strengths while making the deck, whatever the outcome. ([a LinkedIn post of his, quoted in the essay](https://diniscruz.ai/2025/06/08/using-presentations-instead-of-cvs-in-hiring.html))
 
 ### Make your own
 
@@ -117,7 +117,7 @@ Ten slides is enough. Keep one idea on each. Write the deck for someone who has 
 
 **What goes on it:** the one theme that connects your jobs, so the reader sees a path and not a list.
 
-**From Dinis's record:** his career sits where security, software development and, more recently, generative AI meet. ([diniscruz.ai/about](https://diniscruz.ai/about/index.html))
+**From Dinis's record:** his work joins security and software development, and now generative AI. ([diniscruz.ai/about](https://diniscruz.ai/about/index.html))
 
 ### Slide 4: The roles that shaped you
 
@@ -135,7 +135,7 @@ Ten slides is enough. Keep one idea on each. Write the deck for someone who has 
 
 **What goes on it:** communities, mentoring, talks or volunteer work, and what they led to.
 
-**From Dinis's record:** former OWASP Board member; organiser of the OWASP Summits in Lisbon (2011) and Woburn (2017), a working-session format the Open Security Summit series built on. ([diniscruz.ai/about](https://diniscruz.ai/about/index.html))
+**From Dinis's record:** former OWASP Board member; organiser of the OWASP Summits in Lisbon (2011) and Woburn (2017), the Open Security Summit series later took up the same working-session format. ([diniscruz.ai/about](https://diniscruz.ai/about/index.html))
 
 ### Slide 7: How you work with people
 
@@ -153,7 +153,7 @@ Ten slides is enough. Keep one idea on each. Write the deck for someone who has 
 
 **What goes on it:** two or three short points from recommendations, with permission from the people who wrote them. See [The power of recommendations](https://dinis-cruz.agenticcells.site/recommendations/).
 
-**From Dinis's record:** his recommendations are on [his LinkedIn profile](https://www.linkedin.com/in/diniscruz). We could not read them, and we quote no one until they agree.
+**From Dinis's record:** his recommendations are on [his LinkedIn profile](https://www.linkedin.com/in/diniscruz). We could not read them, and we quote no one until they agree. ([Dinis Cruz, brief to the team, 19 November 2026](https://github.com/AgentiCCells/AgentiCCells__Site__Factory/blob/dev/requests/2026-11-19__dinis-cruz/brief.md))
 
 ### Slide 10: What you want next, and how to reach you
 
@@ -242,7 +242,7 @@ A structure that works:
 
 ### The worked example: Dinis's recommendations
 
-Dinis's public recommendations are on [his LinkedIn profile](https://www.linkedin.com/in/diniscruz). He says LinkedIn is where most of his essays are first posted and the fastest route to reach him. ([diniscruz.ai/about](https://diniscruz.ai/about/index.html))
+Dinis's public recommendations are on [his LinkedIn profile](https://www.linkedin.com/in/diniscruz). ([Dinis Cruz, brief to the team, 19 November 2026](https://github.com/AgentiCCells/AgentiCCells__Site__Factory/blob/dev/requests/2026-11-19__dinis-cruz/brief.md)) He says LinkedIn is where most of his essays are first posted and the fastest route to reach him. ([diniscruz.ai/about](https://diniscruz.ai/about/index.html))
 
 **What we could not do.** LinkedIn blocks automated reads, so we could not read his recommendations. We do not know how many there are, who wrote them or what they say.
 
@@ -282,6 +282,7 @@ Every fact about Dinis Cruz on this site comes from a page listed here. We read 
 | [diniscruz.ai/llms.txt](https://diniscruz.ai/llms.txt) and [llms-full.txt](https://diniscruz.ai/llms-full.txt) | Site map and short profile; 103 pieces of writing from February 2024. We searched the full text for CV, slides and recommendations. | 19 November 2026 |
 | [diniscruz.ai writing](https://diniscruz.ai/writing/index.html), [research](https://diniscruz.ai/research/index.html), [home](https://diniscruz.ai/) | The structure of his site, for our links into it. | 19 November 2026 |
 | [riskmandate.ai/about](https://riskmandate.ai/about.html) | The one-line bio used for him on the RiskMandate.ai investor deck (October 2026). | 19 November 2026 |
+| [Dinis Cruz, brief to the team](https://github.com/AgentiCCells/AgentiCCells__Site__Factory/blob/dev/requests/2026-11-19__dinis-cruz/brief.md) | What the site is for, and that he has public recommendations on LinkedIn, given by Dinis on 19 November 2026 (about 14:30 UTC). | 19 November 2026 |
 | [sgit.ai/about](https://sgit.ai/about/) | Confirms thirty years in the UK, CISO for UK companies, one company taken to an exit. | 19 November 2026 |
 | [YouTube video](https://www.youtube.com/watch?v=_UDjTUubuls) (title and channel only, via YouTube's oEmbed service) | A video on the "Dinis Cruz at H&B" channel about asking candidates for a presentation as well as a CV. We did not see its upload date. | 19 November 2026 |
 
