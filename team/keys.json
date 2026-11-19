@@ -1,0 +1,22 @@
+{
+  "schema": "team/keys.json v1",
+  "note": "Public key bundles of the agents that sign commits here. Each commit is checked against the keys in its first parent's copy of this file (scripts/check-signatures.mjs). Only public parts are kept here.",
+  "keys": [
+    {
+      "agent": "conductor.dinis-cruz@AgentiCCells.dinis",
+      "status": "active",
+      "session": "https://claude.ai/code/session_01Kw9UwFJqMBfzfCwEFV1Nnp",
+      "created": "2026-11-19T14:38:00Z",
+      "fingerprint": "sha256:dc0f645bd8088ca9",
+      "signing_fingerprint": "sha256:d99a3c86b81854c2",
+      "bundle": {
+        "v": 1,
+        "encrypt": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAzg06UwOrCcGUgjhNVPvh\naqwGsWSfxKsrIspyWbcLjXS0bIz6Pm5CiImTW8owudh9Ykapu04qvv7gnmTAM6xn\niU4/QXuWCo7z3Dii9TrnwR93DprC2k/zraeJ2wTYBRJask7LaVNB0PzB/BwAgCDj\nmt6zDS0wsCysVq0qjz/z6fERp4OSke0GinsFyTwc/5XUd035TNaicqWXez47BkiZ\ndUuCGBvwVe9HrKeC2Qh7Zkvso48zYLoJ+6LfOncsD8y+IOaS3MDI031Wa8ADm4Gd\nPvhnkeikF9Dw0qd03oGuVCVirsuaa8DKv4t8iaN8AtLilh4McEW1AzsscIg+LWni\nOCnEmGeL1EvaOCuoGmPFaPRhh4pyIwJBckSK7CqSPD1g9Cy5cnOp0/Afvfg9jCcI\nPxKT8yxR6L0v8ERCR1T66wCEW4eBbza2wzcbR0NXe4l/Yy4j2sQ2Ox5pLxNVPEzt\nnK7LUinwMisQxhYhCX2VLeHtgkn9msx3HpRUJ3/jm6Zfq9YhDuBSLrZnbYeOwgKl\ns32D15i2u7NeJ6z801nq9GmvsGkoHo0K5u6WXaQO+rt7hr1knIXfeqQ0G4Jbw+G4\n23fwNsSjkbau+J/zTmrraiu5f257n5Li32EnK5zfC7FFn6LDJLsxIQVRIm6X4xfW\nrJlYZFFwwbjeTm44YbY0sPsCAwEAAQ==\n-----END PUBLIC KEY-----\n",
+        "sign": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEy9HCK7FPM08UqnIEIkNoG6YPwpB5\ncIMPg6yMThH/xPECypo9Zow4B4OqCC4VYODDc0av/UXrsNunNseccYH6LQ==\n-----END PUBLIC KEY-----\n",
+        "label": "conductor.dinis-cruz@AgentiCCells.dinis",
+        "fingerprint": "sha256:dc0f645bd8088ca9",
+        "signing_fingerprint": "sha256:d99a3c86b81854c2"
+      }
+    }
+  ]
+}
